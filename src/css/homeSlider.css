@@ -1,0 +1,12 @@
+.carousel-inner, .carousel-item {
+    height: 70vh;
+}
+
+section {
+    z-index: 1;
+}
+
+.carousel-caption{
+    position: fixed !important;
+    bottom: 5em !important;
+}
